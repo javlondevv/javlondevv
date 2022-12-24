@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/javlon_dev" target="blank"><img src="https://img.shields.io/twitter/follow/javlon_dev?logo=twitter&style=for-the-badge" alt="javlon_dev" /></a> </p>
 
-- 🌱 I’m currently learning **Django Redis**
+- 🌱 I’m currently learning **Django,Redis,Docker,Flask**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Javlondeveloper?tab=repositories](https://github.com/Javlondeveloper?tab=repositories)
 
-- 💬 Ask me about **python,django,database**
+- 💬 Ask me about **Python,Django,Postgres,MySql,Sqlite3**
 
 - 📫 How to reach me **baxtiyorovjavlon8@gmail.com**
 
@@ -33,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javlondeveloper&show_icons=true&locale=en" alt="javlondeveloper" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javlondeveloper&" alt="javlondeveloper" /></p>
-
