@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/javlon_dev" target="blank"><img src="https://img.shields.io/twitter/follow/javlon_dev?logo=twitter&style=for-the-badge" alt="javlon_dev" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Redis, Docker, Flask**
+- 🌱 I’m interested in learning **Django, Redis, Docker, Flask**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Javlondeveloper?tab=repositories](https://github.com/Javlondeveloper?tab=repositories)
 
