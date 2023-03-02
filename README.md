@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javlondeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="javlondeveloper" /> </p>
 
+https://wakatime.com/badge/user/00af0153-560a-4b7c-89be-f6cec5423206.svg
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javlondeveloper" alt="javlondeveloper" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/javlon_dev" target="blank"><img src="https://img.shields.io/twitter/follow/javlon_dev?logo=twitter&style=for-the-badge" alt="javlon_dev" /></a> </p>
