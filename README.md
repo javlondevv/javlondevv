@@ -32,10 +32,14 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javlondeveloper&show_icons=true&locale=en&layout=compact" alt="javlondeveloper" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javlondeveloper&show_icons=true&locale=en" alt="javlondeveloper" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javlondeveloper&" alt="javlondeveloper" /></p>
 
 
-[![Jav’lon’s github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=javlondeveloper&theme=high-contrast)](https://github.com/akhroruz/github-readme-activity-graph)
 
+
+
+[![Jav’lon’s github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=javlondeveloper&theme=high-contrast)](https://github.com/akhroruz/github-readme-activity-graph)
