@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javlondeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="javlondeveloper" /> </p>
 
-https://wakatime.com/badge/user/00af0153-560a-4b7c-89be-f6cec5423206.svg
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=akhroruz&label=Profile%20views&color=0e75b6&style=flat" alt="akhroruz"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=akhroruz" alt="akhroruz"/>
+  <a href="https://wakatime.com/badge/user/1db5173c-4f0f-41f5-907b-2b965e7ee215/project/42c35e8f-e5f0-422c-b74d-7398fa61faab"><img src="https://wakatime.com/badge/user/1db5173c-4f0f-41f5-907b-2b965e7ee215/project/42c35e8f-e5f0-422c-b74d-7398fa61faab.svg" alt="wakatime"></a>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javlondeveloper" alt="javlondeveloper" /></a> </p>
 
