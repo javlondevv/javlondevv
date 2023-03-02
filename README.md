@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javlondeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="javlondeveloper" /> </p>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=akhroruz&label=Profile%20views&color=0e75b6&style=flat" alt="akhroruz"/>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=akhroruz" alt="akhroruz"/>
+  <img src="https://komarev.com/ghpvc/?username=javlondeveloper&label=Profile%20views&color=0e75b6&style=flat" alt=«javlondeveloper»/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=javlondeveloper» alt=«javlondeveloper»/>
   <a href="https://wakatime.com/badge/user/1db5173c-4f0f-41f5-907b-2b965e7ee215/project/42c35e8f-e5f0-422c-b74d-7398fa61faab"><img src="https://wakatime.com/badge/user/1db5173c-4f0f-41f5-907b-2b965e7ee215/project/42c35e8f-e5f0-422c-b74d-7398fa61faab.svg" alt="wakatime"></a>
 </p>
 
