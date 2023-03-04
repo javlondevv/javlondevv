@@ -2,8 +2,6 @@
 <h3 align="center">I'm Javlon. I am Backend engineer who loves coding and learning new skill</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javlondeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="javlondeveloper" />
-</p>
-<a href="https://wakatime.com/@00af0153-560a-4b7c-89be-f6cec5423206"><img src="https://wakatime.com/badge/user/00af0153-560a-4b7c-89be-f6cec5423206.svg" alt="Total time coded since Mar 1 2023" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javlondeveloper" alt="javlondeveloper" /></a> </p>
 
