@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/javlon_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="javlon_dev" height="30" width="40" /></a>
-<a href="https://instagram.com/javlon_developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="javlon_developer" height="30" width="40" /></a>
+<a href="https://instagram.com/javlon_b16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="javlon_developer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@baxtiyorovjavlo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@baxtiyorovjavlo1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/javlonck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="javlonck" height="30" width="40" /></a>
 </p>
