@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javlondeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="javlondeveloper" />
 
+[![](https://komarev.com/ghpvc/?username=abdujalil048&label=Profile%20views&color=0e75b6&style=flat)]() [![wakatime](https://wakatime.com/badge/user/a1596580-acb6-442a-a01c-a1745777f56e.svg)](https://wakatime.com/@javlondeveloper)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javlondeveloper" alt="javlondeveloper" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/javlon_dev" target="blank"><img src="https://img.shields.io/twitter/follow/javlon_dev?logo=twitter&style=for-the-badge" alt="javlon_dev" /></a> </p>
