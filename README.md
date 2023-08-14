@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Javlon</h1>
 <h3 align="center">I'm Javlon. I am Backend engineer who loves coding and learning new skill</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javlondeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="javlondeveloper" />
 
 [![](https://komarev.com/ghpvc/?username=javlondeveloper&label=Profile%20views&color=0e75b6&style=flat)]() [![wakatime](https://wakatime.com/badge/user/a1596580-acb6-442a-a01c-a1745777f56e.svg)](https://wakatime.com/@javlondeveloper)
 
