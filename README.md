@@ -35,3 +35,44 @@
 
 <p><a href="https://github.com/javlondeveloper">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javlondeveloper&show_icons=true&theme=radical" alt="Javlon" style="width: 50%;"></a><a href="https://github.com/javlondeveloper">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javlondeveloper&layout=compact&theme=radical" alt="Javlon"></a></p>
+
+
+
+# 💻 Tech Stack:
+
+![](https://img.shields.io/badge/Python-information?color=3670A0&style=flat&logo=python&logoColor=ffdd54)
+![](https://img.shields.io/badge/PHP-information?color=%23777BB4&style=flat&logo=php&logoColor=white)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&color=039BE5&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=SQLite&color=003B57)
+</br>
+
+![](https://img.shields.io/badge/Bootstrap-information?color=%23563D7C&style=flat&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/CSS3-information?color=%231572B6&style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/HTML5-information?color=%23E34F26&style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/JQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+</br>
+
+![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&color=%23092E20)
+![](https://img.shields.io/badge/Django-REST-information?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![](https://img.shields.io/badge/FastAPI-information?color=005571&style=flat&logo=fastapi)
+![](https://img.shields.io/badge/SQLAlchemy-information?color=E95420&style=flat&logo=SQLAlchemy)
+
+![](https://img.shields.io/badge/Ubuntu-information?color=E95420&style=flat&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Windows-information?color=0078D6&style=flat&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Linux-fff.svg?style=flat&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Git-%23E34F26.svg?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Gitlab%20CI/CD-information?color=%23181717&style=flat&logo=gitlab&logoColor=white)
+![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Linode-%23009639.svg?style=flat&logo=linode&logoColor=black)
+![](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) 
+![](https://img.shields.io/badge/JSON%20Web%20Tokens-black?style=flat&logo=JSON%20web%20tokens) 
+![](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) 
+![](https://img.shields.io/badge/Gunicorn-information?color=%298729&style=flat&logo=gunicorn&logoColor=white)
+![](https://img.shields.io/badge/Celery-%23Clojure.svg?style=flat&logo=Celery&logoColor=Green) 
+![](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) 
+![](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
+![](https://img.shields.io/badge/Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) 
+![](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
