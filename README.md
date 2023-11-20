@@ -79,89 +79,83 @@
 <p><a href="https://github.com/javlondeveloper">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javlondeveloper&show_icons=true&theme=radical" alt="Javlon" style="width: 50%;"></a><a href="https://github.com/javlondeveloper">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javlondeveloper&layout=compact&theme=radical" alt="Javlon"></a></p>
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50" height="40"/>
   </a>
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MySQL-039BE5?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/>
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="50" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="50" height="40"/>
   </a>
   <a href="https://www.sqlite.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white" alt="SQLite"/>
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="40"/>
   </a>
   <br>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="50" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg" alt="CSS3" width="50" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="50" height="40"/>
   </a>
   <a href="https://jquery.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+    <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="50" height="40"/>
   </a>
   <br>
   <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="50" height="40"/>
   </a>
   <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="50" height="40"/>
   </a>
   <a href="https://www.sqlalchemy.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/SQLAlchemy-E95420?style=for-the-badge&logo=SQLAlchemy&logoColor=white" alt="SQLAlchemy"/>
+    <img src="https://www.vectorlogo.zone/logos/sqlalchemy/sqlalchemy-icon.svg" alt="SQLAlchemy" width="50" height="40"/>
   </a>
   <br>
   <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="50" height="40"/>
   </a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Linux-fff?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="50" height="40"/>
   </a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="40"/>
   </a>
   <a href="https://about.gitlab.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitLab_CI/CD-181717?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD"/>
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab CI/CD" width="50" height="40"/>
   </a>
   <a href="https://github.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub" alt="GitHub"/>
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="50" height="40"/>
   </a>
   <a href="https://www.linode.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Linode-009639?style=for-the-badge&logo=linode&logoColor=black" alt="Linode"/>
+    <img src="https://www.vectorlogo.zone/logos/linode/linode-icon.svg" alt="Linode" width="50" height="40"/>
   </a>
   <a href="https://www.heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="50" height="40"/>
   </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="50" height="40"/>
   </a>
   <a href="https://gunicorn.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Gunicorn-98729?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn"/>
+    <img src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-icon.svg" alt="Gunicorn" width="50" height="40"/>
   </a>
   <a href="https://docs.celeryproject.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Celery-%23Clojure?style=for-the-badge&logo=Celery&logoColor=Green" alt="Celery"/>
+    <img src="https://www.vectorlogo.zone/logos/celeryproject/celeryproject-icon.svg" alt="Celery" width="50" height="40"/>
   </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+    <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="50" height="40"/>
   </a>
   <a href="https://www.postman.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="40"/>
   </a>
   <a href="https://swagger.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"/>
+    <img src="https://www.vectorlogo.zone/logos/swagger/swagger-icon.svg" alt="Swagger" width="50" height="40"/>
   </a>
   <a href="https://www.docker.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </a>
-  <a href="https://www.jetbrains.com/pycharm" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PyCharm-black?style=for-the-badge&logo=pycharm&logoColor=black" alt="PyCharm"/>
-  </a>
-</p>
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon
 
