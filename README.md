@@ -80,43 +80,41 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javlondeveloper&layout=compact&theme=radical" alt="Javlon"></a></p>
 
 
-
 # 💻 Tech Stack:
 
-![](https://img.shields.io/badge/Python-information?color=3670A0&style=for-the-badge&logo=python&logoColor=ffdd54)
-![](https://img.shields.io/badge/PHP-information?color=%23777BB4&style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=MySQL&color=039BE5&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/SQLite-informational?style=for-the-badge&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/Python-information?style=for-the-badge&logo=python&logoColor=white&color=3670A0)
+![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=039BE5)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=PostgreSQL&logoColor=white&color=336791)
+![](https://img.shields.io/badge/SQLite-informational?style=for-the-badge&logo=SQLite&logoColor=white&color=003B57)
 </br>
 
-![](https://img.shields.io/badge/Bootstrap-information?color=%23563D7C&style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/CSS3-information?color=%231572B6&style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/HTML5-information?color=%23E34F26&style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/JQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-information?style=for-the-badge&logo=bootstrap&logoColor=white&color=%23563D7C)
+![](https://img.shields.io/badge/CSS3-information?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6)
+![](https://img.shields.io/badge/HTML-information?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26)
+![](https://img.shields.io/badge/JQuery-information?style=for-the-badge&logo=jquery&logoColor=white&color=%230769AD)
 </br>
 
-![](https://img.shields.io/badge/Django-informational?style=for-the-badge&logo=django&color=%23092E20)
+![](https://img.shields.io/badge/Django-informational?style=for-the-badge&logo=django&logoColor=white&color=%23092E20)
 ![](https://img.shields.io/badge/Django-REST-information?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![](https://img.shields.io/badge/FastAPI-information?color=005571&style=for-the-badge&logo=fastapi)
-![](https://img.shields.io/badge/SQLAlchemy-information?color=E95420&style=for-the-badge&logo=SQLAlchemy)
+![](https://img.shields.io/badge/FastAPI-information?style=for-the-badge&logo=fastapi&logoColor=white&color=005571)
+![](https://img.shields.io/badge/SQLAlchemy-information?style=for-the-badge&logo=SQLAlchemy&logoColor=white&color=E95420)
+</br>
 
-![](https://img.shields.io/badge/Ubuntu-information?color=E95420&style=for-the-badge&logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/Windows-information?color=0078D6&style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-fff.svg?style=for-the-badge&logo=linux&logoColor=black) 
+![](https://img.shields.io/badge/Ubuntu-information?style=for-the-badge&logo=ubuntu&logoColor=white&color=E95420)
+![Linux](https://img.shields.io/badge/Linux-fff.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![GIt](https://img.shields.io/badge/Git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Gitlab%20CI/CD-information?color=%23181717&style=for-the-badge&logo=gitlab&logoColor=white)
+![](https://img.shields.io/badge/Gitlab%20CI/CD-information?style=for-the-badge&logo=gitlab&logoColor=white&color=%23181717)
 ![](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=GitHub&color=181717)
 ![Linode](https://img.shields.io/badge/linode-%23009639.svg?style=for-the-badge&logo=linode&logoColor=black)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![](https://img.shields.io/badge/Gunicorn-information?color=%298729&style=for-the-badge&logo=gunicorn&logoColor=white)
-![Celery](https://img.shields.io/badge/celery-%23Clojure.svg?style=for-the-badge&logo=Celery&logoColor=Green) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![](https://img.shields.io/badge/Gunicorn-information?style=for-the-badge&logo=gunicorn&logoColor=white&color=%298729)
+![Celery](https://img.shields.io/badge/celery-%23Clojure.svg?style=for-the-badge&logo=Celery&logoColor=Green)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/PyCharm-information?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
 
 
