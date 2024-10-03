@@ -1,5 +1,5 @@
 [![](https://komarev.com/ghpvc/?username=javlondeveloper&label=Profile%20views&color=0e75b6&style=flat)]() [![wakatime](https://wakatime.com/badge/user/00af0153-560a-4b7c-89be-f6cec5423206.svg)](https://wakatime.com/@00af0153-560a-4b7c-89be-f6cec5423206)
-# 💫 About Me:
+# 💫 About Me: I'm Javlon -- Software Engineer specializing in task automation, API development, and optimization.
 🔭 I’m currently working on: A Django project with complex role-based access, task management, and deadline automation using Celery and Redis.<br><br>👯 I’m looking to collaborate on: Projects involving Django Rest Framework, task automation, or CRM systems.<br><br>🤝 I’m looking for help with: Optimizing query performance and scaling Django apps for high traffic.<br><br>🌱 I’m currently learning: Advanced Celery configurations, real-time updates with WebSockets, and CRM integrations like AmoCRM.<br><br>💬 Ask me about: Django, Celery, Redis, background task processing, and API development with Django Rest Framework.<br><br>⚡ Fun fact: I love solving complex logic puzzles—whether it's in code or in life! 😄
 
 
