@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/javlondevv/javlondevv/banner.png" alt="banner" width="100%" />
+  <img src="https://github.com/javlondevv/javlondevv/blob/main/banner.png" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">Hey there, I'm Javlon 👋</h1>
