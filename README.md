@@ -73,20 +73,36 @@ But beyond the code, I love solving real problems, mentoring junior developers, 
 
 > A few selected projects I'm proud of — crafted for speed, reliability, and clarity.
 
-#### 🏥 Smart Queue
-A Django + Celery powered queue system tailored for async medical workflows.  
-🔧 `Django` `Celery` `Redis` `PostgreSQL`
+#### 🏥 Tana Health — Comprehensive Healthcare Automation System  
+Tana Health is a full-featured platform designed to digitize and streamline clinic operations. It automates everything from patient registration and appointment scheduling to medical records, billing, and staff coordination — all in one place.  
+My work focused on building robust backend systems, optimizing core workflows, and delivering secure, scalable infrastructure to support healthcare automation at scale.  
+🔧 `Django` `Celery` `Redis` `PostgreSQL` `DRF` `Role-Based Access` `Docker`
 
-#### 🤖 CRM Automation
-Backend sync bot connecting AmoCRM data with Telegram for lead alerts and task assignment.  
-🔧 `Django` `Aiogram` `REST API` `PostgreSQL`
+#### 🚗 Evolution Motors CRM — Custom Dealer CRM  
+Designed a secure backend CRM for managing leads, client communication, and test drive scheduling.  
+🔧 `Django` `DRF` `PostgreSQL` `Telegram Bot` `Docker` `Swagger`
 
-#### 🛠️ XCDM Internal Tools
-Role-based, scalable internal admin tools with file previews, audits, and analytics.  
-🔧 `DRF` `Docker` `Jinja2` `Gunicorn` `Nginx`
+---
 
-<p align="center"><i>Want to see more? Just shoot me a DM or email!</i></p>
+#### 🛠️ Leapmotor ERP — Full Stack Dealer ERP System  
+Developed a modular ERP backend for Leapmotor dealers — covering inventory, sales, analytics, and access control.  
+🔧 `Django` `DRF` `RabbitMQ` `PostgreSQL` `Docker` `Admin Panel`
 
+---
+
+#### 📦 Internal CRM Tools — Enterprise-Grade Backend  
+Created admin dashboards, file preview pipelines, role-based controls, and analytics for growing teams.  
+🔧 `DRF` `Jinja2` `Nginx` `Gunicorn` `Redis` `Docker`
+
+---
+
+#### 🧪 Other Notables  
+- Telegram bots with async workflows  
+- Auth systems with OTP, JWT, and RBAC  
+- Real-time WebSocket dashboards  
+- CRM integrations (e.g., AmoCRM)
+
+<p align="center"><i>👀 Want to see more or discuss a project? Just drop me a message.</i></p>
 
 ### 🤝 Let’s Connect & Collaborate
 
