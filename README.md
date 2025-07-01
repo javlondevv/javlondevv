@@ -1,23 +1,128 @@
-[![](https://komarev.com/ghpvc/?username=javlondeveloper&label=Profile%20views&color=0e75b6&style=flat)]() [![wakatime](https://wakatime.com/badge/user/00af0153-560a-4b7c-89be-f6cec5423206.svg)](https://wakatime.com/@00af0153-560a-4b7c-89be-f6cec5423206)
-# 💫 About Me: I'm Javlon -- Software Engineer specializing in task automation, API development, and optimization.
-🔭 I’m currently working on: A Django project with complex role-based access, task management, and deadline automation using Celery and Redis.<br><br>👯 I’m looking to collaborate on: Projects involving Django Rest Framework, task automation, or CRM systems.<br><br>🤝 I’m looking for help with: Optimizing query performance and scaling Django apps for high traffic.<br><br>🌱 I’m currently learning: Advanced Celery configurations, real-time updates with WebSockets, and CRM integrations like AmoCRM.<br><br>💬 Ask me about: Django, Celery, Redis, background task processing, and API development with Django Rest Framework.<br><br>⚡ Fun fact: I love solving complex logic puzzles—whether it's in code or in life! 😄
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/javlondevv/javlondevv/blob/main/assets/banner.gif" alt="banner" width="100%" />
+</p>
 
+<h1 align="center">Hey there, I'm Javlon 👋</h1>
+<h3 align="center">🔧 Backend Engineer | 💡 Automation Architect | 🧠 Curious Builder</h3>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/javlondev.uz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/javlondev.uz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JavlonBaxtiyorov) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/javlon_b16) 
+<p align="center">
+  <a href="https://wakatime.com/@00af0153-560a-4b7c-89be-f6cec5423206" target="_blank">
+    <img src="https://wakatime.com/badge/user/00af0153-560a-4b7c-89be-f6cec5423206.svg" alt="Wakatime" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=javlondevv&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=javlondevv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=javlondevv&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=javlondevv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🧠 Who I Am
 
-[![](https://visitcount.itsvg.in/api?id=javlondevv&icon=0&color=0)](https://visitcount.itsvg.in)
+I'm a software engineer who enjoys **building systems that think ahead** — automating tasks, scaling APIs, and making code feel invisible when it's working right.  
+I’ve led backend systems for CRMs, high-traffic platforms, and async pipelines powered by Celery and Redis.
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/baxtiyorovu) 
+But beyond the code, I love solving real problems, mentoring junior developers, and constantly leveling up as an engineer.
 
+💬 I believe the best code solves human problems — not just technical ones.
+
+---
+
+### ⚡ What I'm Working On
+
+- A **modular Django CRM** system with real-time workflows, queue management, and deadline automation  
+- Integrating **WebSockets** for live dashboard updates  
+- Automating report generation using Celery, Redis, and PDF renderers  
+- Learning how to **balance clean code, performance, and business logic** — all at once
+
+---
+
+### 🔧 Tech Toolbox
+
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
+![Jinja2](https://img.shields.io/badge/Jinja2-000000?style=flat&logo=jinja&logoColor=white)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white)
+
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-298729?style=flat&logo=gunicorn&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+### 🛠️ Things I Enjoy Building
+
+- Systems that **automate repetitive tasks** and make teams faster  
+- APIs that are **clear, documented, and a joy to integrate with**  
+- Scalable backend systems that stay calm under pressure  
+- DevOps pipelines that feel like magic ✨  
+- Internal tools that people actually like using
+
+---
+
+### 🔍 Featured Projects (Wanna see more? DM me.)
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| **Smart Queue** | Django + Celery system for managing async tasks in medical apps | Django, Celery, Redis |
+| **CRM Automation** | Custom backend to sync client data from AmoCRM + Telegram bot | Django, Aiogram, PostgreSQL |
+| **XCDM Internal Tools** | Enterprise-level admin tools with role-based access | Django, DRF, Docker |
+
+---
+
+### 🌐 Let’s Connect
+
+<p align="center">
+  <a href="https://facebook.com/javlondev.uz"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=flat&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/javlondev.uz"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/JavlonBaxtiyorov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/javlon_b16"><img src="https://img.shields.io/badge/X-black?style=flat&logo=X&logoColor=white"/></a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=javlondevv&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javlondevv&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=javlondevv&theme=black-ice&hide_border=true" />
+</p>
+
+---
+
+### ✍️ Favorite Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### ☕ If I Helped You
+
+<p align="center">
+  <a href="https://buymeacoffee.com/baxtiyorovu">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer" />
+</p>
