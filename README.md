@@ -69,55 +69,66 @@ But beyond the code, I love solving real problems, mentoring junior developers, 
 - DevOps pipelines that feel like magic ✨  
 - Internal tools that people actually like using
 
----
+### 🚀 Highlighted Projects
 
-### 🔍 Featured Projects (Wanna see more? DM me.)
+> A few selected projects I'm proud of — crafted for speed, reliability, and clarity.
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| **Smart Queue** | Django + Celery system for managing async tasks in medical apps | Django, Celery, Redis |
-| **CRM Automation** | Custom backend to sync client data from AmoCRM + Telegram bot | Django, Aiogram, PostgreSQL |
-| **XCDM Internal Tools** | Enterprise-level admin tools with role-based access | Django, DRF, Docker |
+#### 🏥 Smart Queue
+A Django + Celery powered queue system tailored for async medical workflows.  
+🔧 `Django` `Celery` `Redis` `PostgreSQL`
 
----
+#### 🤖 CRM Automation
+Backend sync bot connecting AmoCRM data with Telegram for lead alerts and task assignment.  
+🔧 `Django` `Aiogram` `REST API` `PostgreSQL`
 
-### 🌐 Let’s Connect
+#### 🛠️ XCDM Internal Tools
+Role-based, scalable internal admin tools with file previews, audits, and analytics.  
+🔧 `DRF` `Docker` `Jinja2` `Gunicorn` `Nginx`
+
+<p align="center"><i>Want to see more? Just shoot me a DM or email!</i></p>
+
+
+### 🤝 Let’s Connect & Collaborate
 
 <p align="center">
-  <a href="https://instagram.com/javlon_b16"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/javlondevv/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/javlon_b16"><img src="https://img.shields.io/badge/X-black?style=flat&logo=X&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/javlondevv" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/javlon_b16" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=flat&logo=x&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/javlon_b16" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
----
+<p align="center"><b>💌 Have an idea or collab in mind? I’d love to hear from you.</b></p>
+
 
 ---
-
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=javlondevv&theme=radical&margin-w=10&margin-h=15&row=2&column=3" />
+  <img width="75%" src="https://github-profile-trophy.vercel.app/?username=javlondevv&theme=radical&margin-w=10&margin-h=15&row=2&column=3" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=javlondevv&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javlondevv&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=javlondevv&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javlondevv&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=javlondevv&theme=black-ice&hide_border=true" />
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=javlondevv&theme=black-ice&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javlondevv&theme=tokyonight" />
+  <img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javlondevv&theme=tokyonight" />
 </p>
 
-<!-- Optional Snake -->
-
+<!-- 🐍 Optional Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/javlondevv/javlondevv/output/github-contribution-grid-snake.svg" />
+  <img width="75%" src="https://raw.githubusercontent.com/javlondevv/javlondevv/output/github-contribution-grid-snake.svg" />
 </p>
-
 
 
 
