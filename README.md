@@ -84,15 +84,20 @@ But beyond the code, I love solving real problems, mentoring junior developers, 
 ### 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://facebook.com/javlondev.uz"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=flat&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/javlondev.uz"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/JavlonBaxtiyorov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/javlon_b16"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/javlondevv/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/javlon_b16"><img src="https://img.shields.io/badge/X-black?style=flat&logo=X&logoColor=white"/></a>
 </p>
 
 ---
 
+---
+
 ### 📈 GitHub Stats
+
+<p align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=javlondevv&theme=radical&margin-w=10&margin-h=15&row=2&column=3" />
+</p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=javlondevv&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -103,7 +108,18 @@ But beyond the code, I love solving real problems, mentoring junior developers, 
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=javlondevv&theme=black-ice&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javlondevv&theme=tokyonight" />
+</p>
+
+<!-- Optional Snake -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/javlondevv/javlondevv/output/github-contribution-grid-snake.svg" />
+</p>
+
+
+
 
 ### ✍️ Favorite Quote
 
