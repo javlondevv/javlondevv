@@ -34,7 +34,6 @@ But beyond the code, I love solving real problems, mentoring junior developers, 
 - Learning how to **balance clean code, performance, and business logic** — all at once
 
 ---
-
 ### 🔧 Tech Toolbox
 
 **Languages & Frameworks**  
@@ -49,17 +48,26 @@ But beyond the code, I love solving real problems, mentoring junior developers, 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 **DevOps & Tools**  
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-298729?style=flat&logo=gunicorn&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-298729?style=flat&logo=gunicorn&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
----
+**OS & IDE**  
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=green)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat&logo=sublime-text&logoColor=white)
 
 ### 🛠️ Things I Enjoy Building
 
@@ -103,26 +111,27 @@ Created admin dashboards, file preview pipelines, role-based controls, and analy
 - CRM integrations (e.g., AmoCRM)
 
 <p align="center"><i>👀 Want to see more or discuss a project? Just drop me a message.</i></p>
-
 ### 🌐 Let’s Connect
 
-I love meeting engineers, founders, and builders from all walks of tech.  
-Got a question, idea, or just want to say hi? — My inbox is open.
+Always open to new ideas, tech discussions, or collaborations.  
+Ping me anytime — I'm just a message away!
 
 <p align="center">
+  <a href="mailto:contact@javlondev.uz">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
   <a href="https://linkedin.com/in/javlondevv" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/javlon_b16" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="Twitter/X" />
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X / Twitter" />
   </a>
   <a href="https://instagram.com/javlon_b16" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
-<p align="center"><i>Let’s build something great together.</i></p>
-
+<p align="center"><i>Let’s connect and build something meaningful together.</i></p>
 
 ---
 ### 📈 GitHub Stats
