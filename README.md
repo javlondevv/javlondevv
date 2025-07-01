@@ -104,21 +104,24 @@ Created admin dashboards, file preview pipelines, role-based controls, and analy
 
 <p align="center"><i>👀 Want to see more or discuss a project? Just drop me a message.</i></p>
 
-### 🤝 Let’s Connect & Collaborate
+### 🌐 Let’s Connect
+
+I love meeting engineers, founders, and builders from all walks of tech.  
+Got a question, idea, or just want to say hi? — My inbox is open.
 
 <p align="center">
   <a href="https://linkedin.com/in/javlondevv" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/javlon_b16" target="_blank">
-    <img src="https://img.shields.io/badge/X-Follow-black?style=flat&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="Twitter/X" />
   </a>
   <a href="https://instagram.com/javlon_b16" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
-<p align="center"><b>💌 Have an idea or collab in mind? I’d love to hear from you.</b></p>
+<p align="center"><i>Let’s build something great together.</i></p>
 
 
 ---
