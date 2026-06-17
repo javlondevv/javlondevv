@@ -67,6 +67,26 @@ I've led backend development for **CRMs, healthcare platforms, ERP systems, and 
 
 > Production systems I've designed, built, and shipped.
 
+#### 🎓 Soff Platform Ecosystem — AI-Powered Education Marketplace *(Current — Soff LLC)*
+High-load AI-powered educational ecosystem serving thousands of concurrent users — built as multiple interconnected services, each solving a distinct problem in the academic content space.
+
+| Product | What it does | Scale |
+|---|---|---|
+| **soff.uz** | Digital marketplace for academic materials, 3D designs, website templates & freelance services | 1.5M+ academic works, 2K+ templates |
+| **soffcrm.uz** | Internal CRM for managing users, seller accounts, sales pipelines & platform analytics | Full Soff ecosystem |
+| **soffia.uz** | AI academic assistant — generates presentations, course papers, reports, tests & research in seconds | 20K+ users |
+| **Soffia Telegram Bot** | AI slide & document generation directly from Telegram — no browser needed | Telegram-native |
+| **Soffia Web Platform** | Web interface for managing AI-generated documents with download & editing capabilities | — |
+
+- Designed scalable backend architecture handling high-traffic concurrent requests
+- Built AI content generation services and NLP-based automation pipelines
+- Implemented Google + Telegram OAuth authentication across platforms
+- Optimized PostgreSQL queries and Redis caching for high-load performance
+
+🔧 `Django` `FastAPI` `PostgreSQL` `Redis` `Docker` `AI integrations` `NLP` `Celery`
+
+---
+
 #### 🏥 Tana Health — Healthcare Automation Platform
 A full-featured clinic management system digitizing patient registration, appointment scheduling, medical records, billing, and staff coordination. Built for scale and reliability in a real healthcare environment.
 - Multi-role access control (doctors, nurses, admins, patients)
@@ -134,7 +154,7 @@ Open to backend roles, freelance projects, and technical collaborations. I'm jus
   </a>
 </p>
 
-<p align="center"><i>Based in Tashkent 🇺🇿 — building things that work.</i></p>
+<p align="center"><i>Tashkent 🇺🇿 & Orlando 🇺🇸 — building things that work.</i></p>
 
 ---
 
