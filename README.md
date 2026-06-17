@@ -17,10 +17,11 @@
 
 ### 🧠 Who I Am
 
-I'm a software engineer who enjoys **building systems that think ahead** — automating tasks, scaling APIs, and making code feel invisible when it's working right.  
-I’ve led backend systems for CRMs, high-traffic platforms, and async pipelines powered by Celery and Redis.
+With **4+ years of production experience** and **5 years in software engineering overall**, I build backend systems that scale — automating business workflows, designing async task pipelines, and shipping APIs that teams actually enjoy integrating with.
 
-But beyond the code, I love solving real problems, mentoring junior developers, and constantly leveling up as an engineer.
+I've led backend development for **CRMs, healthcare platforms, ERP systems, and AI-powered bots** — all the way from architecture to deployment. My stack lives in Python, Django, and FastAPI, backed by Celery, Redis, and PostgreSQL.
+
+📍 Based in **Tashkent, Uzbekistan** 🇺🇿 (UTC+5) & **Orlando, FL 🇺🇸** — currently working hybrid at **CitiFuel**. Open to remote opportunities worldwide.
 
 💬 I believe the best code solves human problems — not just technical ones.
 
@@ -28,15 +29,16 @@ But beyond the code, I love solving real problems, mentoring junior developers, 
 
 ### ⚡ What I'm Working On
 
-- A **modular Django CRM** system with real-time workflows, queue management, and deadline automation  
-- Integrating **WebSockets** for live dashboard updates  
-- Automating report generation using Celery, Redis, and PDF renderers  
-- Learning how to **balance clean code, performance, and business logic** — all at once
+- A **modular Django CRM** with real-time task tracking, WebSocket dashboards, and deadline automation — used by active teams
+- **AI-powered agents** for Instagram automation, speech analysis at point of sale, and smart form pre-qualification
+- Async report generation pipelines using Celery, Redis, and PDF renderers
+- Exploring how to ship **production-grade AI features** as backend services
 
 ---
+
 ### 🔧 Tech Toolbox
 
-**Languages & Frameworks**  
+**Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat&logo=django&logoColor=white)
@@ -44,77 +46,78 @@ But beyond the code, I love solving real problems, mentoring junior developers, 
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
 ![Jinja2](https://img.shields.io/badge/Jinja2-000000?style=flat&logo=jinja&logoColor=white)
 
-**Databases**  
+**Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-**DevOps & Tools**  
+**DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-298729?style=flat&logo=gunicorn&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-298729?style=flat&logo=gunicorn&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-**OS & IDE**  
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=green)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat&logo=sublime-text&logoColor=white)
-
-### 🛠️ Things I Enjoy Building
-
-- Systems that **automate repetitive tasks** and make teams faster  
-- APIs that are **clear, documented, and a joy to integrate with**  
-- Scalable backend systems that stay calm under pressure  
-- DevOps pipelines that feel like magic ✨  
-- Internal tools that people actually like using
+---
 
 ### 🚀 Highlighted Projects
 
-> A few selected projects I'm proud of — crafted for speed, reliability, and clarity.
+> Production systems I've designed, built, and shipped.
 
-#### 🏥 Tana Health — Comprehensive Healthcare Automation System  
-Tana Health is a full-featured platform designed to digitize and streamline clinic operations. It automates everything from patient registration and appointment scheduling to medical records, billing, and staff coordination — all in one place.  
-My work focused on building robust backend systems, optimizing core workflows, and delivering secure, scalable infrastructure to support healthcare automation at scale.  
-🔧 `Django` `Celery` `Redis` `PostgreSQL` `DRF` `Role-Based Access` `Docker`
+#### 🏥 Tana Health — Healthcare Automation Platform
+A full-featured clinic management system digitizing patient registration, appointment scheduling, medical records, billing, and staff coordination. Built for scale and reliability in a real healthcare environment.
+- Multi-role access control (doctors, nurses, admins, patients)
+- Async background jobs for notifications and report generation
+- Secure medical data handling with audit trails
 
-#### 🚗 Evolution Motors CRM — Custom Dealer CRM  
-Designed a secure backend CRM for managing leads, client communication, and test drive scheduling.  
+🔧 `Django` `Celery` `Redis` `PostgreSQL` `DRF` `Docker` `RBAC`
+
+---
+
+#### 🚗 Evolution Motors CRM — Custom Dealer Backend
+Backend CRM managing leads, client communication, and test drive scheduling for an EV dealership. Includes Telegram bot integration for instant notifications to the sales team.
+- JWT authentication with role-based permissions
+- Telegram bot sending real-time alerts on new bookings
+- Multi-language support (Uzbek / Russian) via django-modeltranslation
+- Full OpenAPI/Swagger documentation
+
 🔧 `Django` `DRF` `PostgreSQL` `Telegram Bot` `Docker` `Swagger`
 
 ---
 
-#### 🛠️ Leapmotor ERP — Full Stack Dealer ERP System  
-Developed a modular ERP backend for Leapmotor dealers — covering inventory, sales, analytics, and access control.  
-🔧 `Django` `DRF` `RabbitMQ` `PostgreSQL` `Docker` `Admin Panel`
+#### 🏢 HOC CRM — Enterprise Team Management System
+A full internal CRM for team task management, meeting coordination, and role-based access across companies and modules. Built with real-time notifications and async email workflows.
+- Real-time WebSocket notifications via Django Channels + Redis
+- Celery async task email system with HTML templates
+- Excel export for reports and analytics
+- 16 modular view files covering tasks, meetings, permissions, files, and more
+
+🔧 `Django` `Channels` `Celery` `Redis` `PostgreSQL` `DRF` `WebSockets` `Docker`
 
 ---
 
-#### 📦 Internal CRM Tools — Enterprise-Grade Backend  
-Created admin dashboards, file preview pipelines, role-based controls, and analytics for growing teams.  
-🔧 `DRF` `Jinja2` `Nginx` `Gunicorn` `Redis` `Docker`
+#### 🛠️ Leapmotor ERP — Dealer ERP System
+Modular ERP backend for Leapmotor dealers covering inventory, sales tracking, analytics, and access control across departments.
+
+🔧 `Django` `DRF` `RabbitMQ` `PostgreSQL` `Docker`
 
 ---
 
-#### 🧪 Other Notables  
-- Telegram bots with async workflows  
-- Auth systems with OTP, JWT, and RBAC  
-- Real-time WebSocket dashboards  
-- CRM integrations (e.g., AmoCRM)
+#### 🤖 Other Notable Work
+- **SpeechSense** — AI-powered brand activation and speech analysis at point of sale
+- **Instagram AI Chatbot** — Automated Instagram DM handling with AI responses
+- **Telegram bots** — async multi-function bots with OTP, file handling, and CRM integrations
+- **P2P Exchange** — crypto exchange backend with wallet management
+- **UniPay Uzbekistan** — unified payment gateway library for Payme, Click, Uzum, Paynet, Octo
 
-<p align="center"><i>👀 Want to see more or discuss a project? Just drop me a message.</i></p>
-### 🌐 Let’s Connect
+---
 
-Always open to new ideas, tech discussions, or collaborations.  
-Ping me anytime — I'm just a message away!
+### 🌐 Let's Connect
+
+Open to backend roles, freelance projects, and technical collaborations. I'm just a message away.
 
 <p align="center">
   <a href="mailto:contact@javlondev.uz">
@@ -131,9 +134,10 @@ Ping me anytime — I'm just a message away!
   </a>
 </p>
 
-<p align="center"><i>Let’s connect and build something meaningful together.</i></p>
+<p align="center"><i>Based in Tashkent 🇺🇿 — building things that work.</i></p>
 
 ---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -142,7 +146,7 @@ Ping me anytime — I'm just a message away!
 
 <p align="center">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=javlondevv&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javlondevv&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javlondevv&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=bitly-project,django_blog,todo_project,javlon_portfolio,social_network_prototype,kebzu-qurulish,chinasite,Dadi_uz,Designer_Portflio,novza_ecommerce,chinasite" />
 </p>
 
 <p align="center">
@@ -153,27 +157,15 @@ Ping me anytime — I'm just a message away!
   <img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javlondevv&theme=tokyonight" />
 </p>
 
-<!-- 🐍 Optional Snake -->
+<!-- Snake -->
 <p align="center">
   <img width="75%" src="https://raw.githubusercontent.com/javlondevv/javlondevv/output/github-contribution-grid-snake.svg" />
 </p>
-
-
 
 ### ✍️ Favorite Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-### ☕ If I Helped You
-
-<p align="center">
-  <a href="https://buymeacoffee.com/baxtiyorovu">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
 </p>
 
 ---
