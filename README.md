@@ -1,10 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/javlondevv/javlondevv/blob/main/banner.png" alt="banner" width="100%" />
+  <img src="https://github.com/javlondevv/javlondevv/blob/main/banner.png" alt="banner" width="80%" />
 </p>
 
 <h1 align="center">Hey there, I'm Javlon 👋</h1>
-<h3 align="center">🔧 Backend Engineer | 💡 Automation Architect | 🧠 Curious Builder</h3>
+<h3 align="center">🔧 Software Engineer | 💡 Automation Architect | 🧠 Curious Builder</h3>
 
 <p align="center">
   <a href="https://wakatime.com/@00af0153-560a-4b7c-89be-f6cec5423206" target="_blank">
@@ -161,13 +161,13 @@ Open to backend roles, freelance projects, and technical collaborations. I'm jus
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" alt="Javlon's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=javlondevv&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_rank=false&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img height="170" alt="Javlon's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=javlondevv&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
   &nbsp;
   <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javlondevv&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&exclude_repo=bitly-project,django_blog,todo_project,javlon_portfolio,social_network_prototype,kebzu-qurulish,chinasite,Dadi_uz,Designer_Portflio,novza_ecommerce,chinasite" />
 </p>
 
 <p align="center">
-  <img height="170" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=javlondevv&hide_border=true&background=0D1117&border=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&dayLabels=8B949E" />
+  <img height="170" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=javlondevv&hide_border=true&background=0D1117&border=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 </p>
 
 <!-- Contribution graph (auto-generated daily by .github/workflows/snake.yml) -->
