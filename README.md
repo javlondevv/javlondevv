@@ -161,25 +161,13 @@ Open to backend roles, freelance projects, and technical collaborations. I'm jus
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="75%" src="https://github-profile-trophy.vercel.app/?username=javlondevv&theme=radical&margin-w=10&margin-h=15&row=2&column=3" />
+  <img height="170" alt="Javlon's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=javlondevv&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_rank=false&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  &nbsp;
+  <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javlondevv&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&exclude_repo=bitly-project,django_blog,todo_project,javlon_portfolio,social_network_prototype,kebzu-qurulish,chinasite,Dadi_uz,Designer_Portflio,novza_ecommerce,chinasite" />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=javlondevv&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javlondevv&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=bitly-project,django_blog,todo_project,javlon_portfolio,social_network_prototype,kebzu-qurulish,chinasite,Dadi_uz,Designer_Portflio,novza_ecommerce,chinasite" />
-</p>
-
-<p align="center">
-  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=javlondevv&theme=black-ice&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javlondevv&theme=tokyonight" />
-</p>
-
-<!-- Snake -->
-<p align="center">
-  <img width="75%" src="https://raw.githubusercontent.com/javlondevv/javlondevv/output/github-contribution-grid-snake.svg" />
+  <img height="170" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=javlondevv&hide_border=true&background=0D1117&border=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&dayLabels=8B949E" />
 </p>
 
 ### ✍️ Favorite Quote
