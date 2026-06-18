@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hey there, I'm Javlon 👋</h1>
-<h3 align="center">🔧 Software Engineer | 💡 Automation Architect | 🧠 Curious Builder</h3>
+<h3 align="center">🔧 Senior Software Engineer | 💡 Automation Architect | 🧠 Curious Builder</h3>
 
 <p align="center">
   <a href="https://wakatime.com/@00af0153-560a-4b7c-89be-f6cec5423206" target="_blank">
@@ -21,7 +21,7 @@ With **4+ years of production experience** and **5 years in software engineering
 
 I've led backend development for **CRMs, healthcare platforms, ERP systems, and AI-powered bots** — all the way from architecture to deployment. My stack lives in Python, Django, and FastAPI, backed by Celery, Redis, and PostgreSQL.
 
-📍 Based in **Tashkent, Uzbekistan** 🇺🇿 (UTC+5) & **Orlando, FL 🇺🇸** — currently working hybrid at **CitiFuel**. Open to remote opportunities worldwide.
+📍 Based in **Tashkent, Uzbekistan** 🇺🇿 (UTC+5) & **Orlando, FL 🇺🇸** — currently a **Senior Software Engineer at CitiFuel Global** 🇺🇸. Open to remote opportunities worldwide.
 
 💬 I believe the best code solves human problems — not just technical ones.
 
@@ -67,23 +67,22 @@ I've led backend development for **CRMs, healthcare platforms, ERP systems, and 
 
 > Production systems I've designed, built, and shipped.
 
-#### 🎓 Soff Platform Ecosystem — AI-Powered Education Marketplace *(Current — Soff LLC)*
-High-load AI-powered educational ecosystem serving thousands of concurrent users — built as multiple interconnected services, each solving a distinct problem in the academic content space.
+#### 🎓 Soff Platform Ecosystem — EdTech Marketplace & AI Academic Suite *(Senior Software Engineer · Soff LLC · until May 2026)*
+A high-load EdTech ecosystem serving **3.5M+ monthly active users** across several interconnected products in Uzbekistan's academic space. As Senior Software Engineer I designed and scaled the backend services powering the platforms below.
 
-| Product | What it does | Scale |
+| Product | What it is | Scale |
 |---|---|---|
-| **soff.uz** | Digital marketplace for academic materials, 3D designs, website templates & freelance services | 1.5M+ academic works, 2K+ templates |
-| **soffcrm.uz** | Internal CRM for managing users, seller accounts, sales pipelines & platform analytics | Full Soff ecosystem |
-| **soffia.uz** | AI academic assistant — generates presentations, course papers, reports, tests & research in seconds | 20K+ users |
-| **Soffia Telegram Bot** | AI slide & document generation directly from Telegram — no browser needed | Telegram-native |
-| **Soffia Web Platform** | Web interface for managing AI-generated documents with download & editing capabilities | — |
+| **[soff.uz](https://soff.uz)** | Intellectual-property marketplace for ready-made academic works, 3D & interior designs, website/design templates and video courses — plus a freelance portal for web-dev, design and programming gigs (Click & Payme payments, referral program). | Core of a **3.5M+ MAU** ecosystem |
+| **[soffcrm.uz](https://soffcrm.uz)** | SaaS CRM that automates training centers: student lifecycle, billing, QR- & face-recognition attendance, group scheduling, and finance/marketing analytics. Integrates Google Meet, AmoCRM, Eskiz & Play Mobile. | **300+ education centers** |
+| **[soffia.uz](https://soffia.uz)** | AI academic assistant generating presentations, course papers (referat), independent works, reports, tests, essays, résumés, crosswords and lessons in ~1.5 min, with Google/Telegram sign-in. | **100K+ users** |
+| **Soffia Telegram Bot** | AI slide-deck & document generation straight from Telegram — no browser needed. | Telegram-native |
 
-- Designed scalable backend architecture handling high-traffic concurrent requests
-- Built AI content generation services and NLP-based automation pipelines
-- Implemented Google + Telegram OAuth authentication across platforms
-- Optimized PostgreSQL queries and Redis caching for high-load performance
+- Architected scalable, high-load backend services sustaining **3.5M+ monthly active users**
+- Built the AI content-generation pipelines (presentations, papers, tests) and NLP automation behind Soffia
+- Implemented Google + Telegram OAuth across the ecosystem
+- Tuned PostgreSQL queries and Redis caching for high-traffic, low-latency performance
 
-🔧 `Django` `FastAPI` `PostgreSQL` `Redis` `Docker` `AI integrations` `NLP` `Celery`
+🔧 `Django` `FastAPI` `PostgreSQL` `Redis` `Docker` `Celery` `AI / NLP`
 
 ---
 
