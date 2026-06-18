@@ -166,7 +166,7 @@ Open to backend roles, freelance projects, and technical collaborations. I'm jus
 </p>
 
 <p align="center">
-  <img height="170" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=javlondevv&hide_border=true&background=0D1117&border=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+  <img height="170" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=javlondevv&hide_border=true&background=0D1117&border=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&cache_seconds=21600&v=2" />
 </p>
 
 <!-- Contribution graph (auto-generated daily by .github/workflows/snake.yml) -->
