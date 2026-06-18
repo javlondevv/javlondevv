@@ -170,14 +170,17 @@ Open to backend roles, freelance projects, and technical collaborations. I'm jus
   <img height="170" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=javlondevv&hide_border=true&background=0D1117&border=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&dayLabels=8B949E" />
 </p>
 
-### ✍️ Favorite Quote
-
+<!-- Contribution graph (auto-generated daily by .github/workflows/snake.yml) -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img width="85%" alt="Contribution graph" src="https://raw.githubusercontent.com/javlondevv/javlondevv/output/github-snake-dark.svg" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer" />
-</p>
+<blockquote align="center">
+  <p><i>"The best code solves human problems — not just technical ones."</i></p>
+</blockquote>
+
+---
+
+<p align="center"><sub>Tashkent 🇺🇿 · Orlando 🇺🇸 — building backend systems that scale.</sub></p>
