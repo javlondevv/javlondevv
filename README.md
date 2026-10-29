@@ -36,6 +36,18 @@ I've led backend development for **CRMs, healthcare platforms, ERP systems, and 
 
 ---
 
+### 📦 Open Source Packages
+
+> Published on PyPI — download counts update live.
+
+| Package | What it does | Version | Downloads |
+|---|---|---|---|
+| **[fastapi-passkeys](https://github.com/javlondevv/fastapi-passkeys)** | Passkeys / WebAuthn authentication for FastAPI — secure by default, storage-agnostic, async-native. | [![PyPI](https://img.shields.io/pypi/v/fastapi-passkeys?style=flat&color=0e75b6)](https://pypi.org/project/fastapi-passkeys/) | [![Downloads](https://img.shields.io/pepy/dt/fastapi-passkeys?style=flat&label=total&color=0e75b6)](https://pepy.tech/project/fastapi-passkeys) [![Monthly](https://img.shields.io/pypi/dm/fastapi-passkeys?style=flat&label=month)](https://pypistats.org/packages/fastapi-passkeys) |
+| **[fastapi-trusted-devices](https://github.com/javlondevv/fastapi-trusted-devices)** | Async trusted-device management and session security for FastAPI. | [![PyPI](https://img.shields.io/pypi/v/fastapi-trusted-devices?style=flat&color=0e75b6)](https://pypi.org/project/fastapi-trusted-devices/) | [![Downloads](https://img.shields.io/pepy/dt/fastapi-trusted-devices?style=flat&label=total&color=0e75b6)](https://pepy.tech/project/fastapi-trusted-devices) [![Monthly](https://img.shields.io/pypi/dm/fastapi-trusted-devices?style=flat&label=month)](https://pypistats.org/packages/fastapi-trusted-devices) |
+| **[unipay-uz](https://github.com/javlondevv/unipay-uz)** | Unified payment gateway library for Uzbekistan providers — Payme, Click, Uzum, Paynet, Octo. | [![PyPI](https://img.shields.io/pypi/v/unipay-uz?style=flat&color=0e75b6)](https://pypi.org/project/unipay-uz/) | [![Downloads](https://img.shields.io/pepy/dt/unipay-uz?style=flat&label=total&color=0e75b6)](https://pepy.tech/project/unipay-uz) [![Monthly](https://img.shields.io/pypi/dm/unipay-uz?style=flat&label=month)](https://pypistats.org/packages/unipay-uz) |
+
+---
+
 ### 🔧 Tech Toolbox
 
 **Languages & Frameworks**
@@ -130,7 +142,6 @@ Modular ERP backend for Leapmotor dealers covering inventory, sales tracking, an
 - **Instagram AI Chatbot** — Automated Instagram DM handling with AI responses
 - **Telegram bots** — async multi-function bots with OTP, file handling, and CRM integrations
 - **P2P Exchange** — crypto exchange backend with wallet management
-- **UniPay Uzbekistan** — unified payment gateway library for Payme, Click, Uzum, Paynet, Octo
 
 ---
 
